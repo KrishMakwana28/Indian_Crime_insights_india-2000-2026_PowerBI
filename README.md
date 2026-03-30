@@ -1,67 +1,177 @@
-## Crime Data Analysis in India (2000 – Present) 📊
+# 🚔 Crime Data Analysis in India (2000 – 2026) 📊
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
+![Dataset](https://img.shields.io/badge/Records-100K+-blue?style=for-the-badge)
+![Pages](https://img.shields.io/badge/Dashboard-10%20Pages-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
+
+---
 
 ## 📌 Project Overview
 
-Crime is a critical social and economic issue affecting public safety and quality of life. This project transforms a complex dataset of **100,000 records** and **40 variables** into an interactive, 10-page Power BI dashboard. It provides law enforcement agencies and policy-makers with actionable insights into crime patterns across India from the year 2000 to the present.
+Crime is a major social and economic challenge affecting **public safety, governance, and economic stability**.
+
+This project transforms a complex dataset of **100,000+ crime records** and **40 variables** into a **fully interactive Power BI dashboard**.
+
+📊 The dashboard enables:
+- Deep exploration of crime trends  
+- Identification of high-risk regions  
+- Analysis of law enforcement performance  
+- Evaluation of financial impact of crimes  
+
+---
 
 ## 🎯 Key Objectives
 
-  * **Trend Tracking:** Analyze crime fluctuations over a 26-year period.
-  * **Geospatial Mapping:** Identify high-risk "hotspots" by state and city.
-  * **Demographic Profiling:** Examine victim and suspect age/gender distributions.
-  * **Efficiency Metrics:** Evaluate arrest rates, case closure speeds, and investigation priorities.
-  * **Economic Impact:** Measure the gap between property loss ($₹ 100bn$) and recovery value ($₹ 25bn$).
+✔ Analyze crime trends from **2000 to 2026**  
+✔ Identify **crime hotspots (State & City level)**  
+✔ Study **victim & suspect demographics**  
+✔ Evaluate **investigation efficiency**  
+✔ Measure **financial loss vs recovery gap**  
 
-## 🗂️ Dataset Architecture
+---
 
-The analysis is built upon 40 columns categorized into:
+## 🗂️ Dataset Overview
 
-  * **Crime Info:** Type, Severity, Weapon, Scope.
-  * **Location:** State, City, Police Station, Area Type (Urban/Rural).
-  * **Demographics:** Victim & Suspect age, gender, and counts.
-  * **Investigation:** Evidence types (DNA, CCTV, Fingerprints), Arrest Status, Days to Close.
-  * **Financials:** Property Loss, Recovery Value, Net Loss.
+The dataset includes **40 columns**, categorized into:
+
+### 🔹 Crime Information
+- Crime Type, Severity, Weapon Used, Scope  
+
+### 📍 Location Data
+- State, City, Police Station, Area Type  
+
+### 👥 Demographics
+- Victim & Suspect Age, Gender, Count  
+
+### 🕵️ Investigation Details
+- Arrest Made, Evidence Type (DNA, CCTV, Fingerprints)  
+- Days to Close, Investigation Priority  
+
+### 💰 Financial Data
+- Property Loss (₹)  
+- Recovery Value (₹)  
+
+---
 
 ## 🚀 Dashboard Pages & Features
 
-The report is divided into specialized analytical views:
+### 🏠 1. Overview Dashboard
+- KPI Cards: Total Crimes, Arrest Rate, Closure Rate  
+- Crime Trend Line  
+- Crime Type Treemap  
+- Area Type Distribution  
 
-1.  **Overview:** High-level KPIs (Arrest Rate: 50.18%, Case Closure: 33.49%).
-2.  **Trend Analysis:** Seasonal patterns and time-of-day crime spikes.
-3.  **Geographic Analysis:** Heat maps and city-wise rankings (Top City: Delhi).
-4.  **Category Analysis:** Severity breakdowns and weapon usage frequency.
-5.  **Victim/Suspect Analysis:** Histograms and repeat offender tracking.
-6.  **Investigation Efficiency:** Average duration ($182.6$ days) and officer deployment impact.
-7.  **Evidence Impact:** Correlation between forensic evidence and arrest rates.
-8.  **Financial Impact:** Waterfall charts showing the flow from Loss to Recovery.
+---
 
-## 🛠️ Technical Stack
+### 📈 2. Trend Analysis
+- Yearly Crime Trend  
+- Monthly Pattern Analysis  
+- Time-of-Day Crime Distribution  
+- Crime Type Trends (Stacked Area)  
 
-  * **Power BI Desktop:** Report authoring and dashboard design.
-  * **Power Query (M):** Data cleaning and transformation.
-  * **DAX (Data Analysis Expressions):** Calculated measures for Arrest Rates, Recovery Ratios, and Year-over-Year trends.
-  * **Visualizations:** Treemaps, Waterfall charts, Box plots, Shape maps, and Scatter plots.
+---
 
-## 📈 Key Insights Derived
+### 🗺️ 3. Geographic Analysis
+- State-wise Crime Map  
+- Top Cities Ranking  
+- Crime Hotspot Identification  
 
-  * **Recovery Gap:** Only **25%** of the total property loss is recovered annually.
-  * **Investigation Bottlenecks:** The average investigation lasts over 180 days, regardless of priority.
-  * **Recidivism:** Approximately **50%** of crimes involve repeat offenders, highlighting a need for rehabilitation focus.
-  * **Evidence Power:** Cases with CCTV or Digital Evidence show significantly higher closure rates.
+---
 
-## 📂 Repository Structure
+### 📊 4. Category Analysis
+- Crime Severity Breakdown  
+- Weapon Usage Analysis  
+- Gang-related Crime Insights  
 
-```text
-├── Data/                   # (Optional) Sample dataset or schema
-├── Screenshots/            # Dashboard images for all 10 pages
-├── India_Crime_Analysis.pbix # Main Power BI File
-└── README.md               # Project Documentation
-```
+---
 
-## 👤 Author
+### 👤 5. Victim Analysis
+- Age Distribution  
+- Gender Split  
+- Victims per Incident  
+
+---
+
+### 🕵️ 6. Suspect Analysis
+- Repeat Offenders  
+- Suspect Age Distribution  
+- Prior Criminal Records  
+
+---
+
+### ⚖️ 7. Investigation Efficiency
+- Arrest Rate by Crime Type  
+- Case Status Distribution  
+- Average Days to Close  
+- Officer Deployment Analysis  
+
+---
+
+### 🧪 8. Evidence Impact
+- Evidence Type Usage  
+- Evidence vs Case Closure  
+- CCTV / DNA / Fingerprint Impact  
+
+---
+
+### 💸 9. Financial Impact
+- Total Property Loss vs Recovery  
+- Recovery Rate %  
+- Loss vs Recovery Waterfall  
+- State-wise Financial Damage  
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|------|--------|
+| **Power BI Desktop** | Dashboard Development |
+| **Power Query (M)** | Data Cleaning & Transformation |
+| **DAX** | Measures & Calculations |
+| **Visualization Tools** | Treemap, Map, Waterfall, Scatter, Box Plot |
+
+---
+
+## 📊 Key Insights
+
+📉 **Recovery Gap**  
+➡ Only **25% of property loss is recovered**
+
+⏳ **Investigation Delay**  
+➡ Avg case duration ≈ **180+ days**
+
+🔁 **Repeat Offenders**  
+➡ Nearly **50% crimes involve repeat offenders**
+
+📹 **Evidence Impact**  
+➡ Cases with **CCTV/Digital Evidence → Higher closure rates**
+
+---
+
+
+---
+
+## 🎯 Business Value
+
+✔ Helps identify **high-risk areas**  
+✔ Supports **data-driven policing strategies**  
+✔ Improves **resource allocation**  
+✔ Highlights **financial loss patterns**  
+✔ Enables **policy-level decision making**  
+
+---
+
+## 👨‍💻 Author
 
 **Krish Makwana**
 
-  * [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/krish-makwana-58ab64374/)
-  * [GitHub](https://www.google.com/search?q=https://github.com/KrishMakwana28)
+🔗 LinkedIn: *(Add your link)*  
+💻 GitHub: *(Add your link)*  
 
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and share your feedback!
