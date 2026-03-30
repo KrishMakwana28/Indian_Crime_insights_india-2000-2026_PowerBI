@@ -1,4 +1,4 @@
-### Crime Data Analysis in India (2000 – Present) 📊
+## Crime Data Analysis in India (2000 – Present) 📊
 
 ## 📌 Project Overview
 
