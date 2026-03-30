@@ -167,8 +167,8 @@ The dataset includes **40 columns**, categorized into:
 
 **Krish Makwana**
 
-🔗 LinkedIn: *(Add your link)*  
-💻 GitHub: *(Add your link)*  
+🔗 LinkedIn: https://www.linkedin.com/in/krish-makwana-58ab64374/
+💻 GitHub: https://github.com/KrishMakwana28
 
 ---
 
