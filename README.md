@@ -230,6 +230,7 @@ The dataset consists of **100,000+ records** and **40 columns**, grouped into th
 **Krish Makwana**
 
 🔗 LinkedIn: [https://www.linkedin.com/in/krish-makwana-58ab64374/](https://www.linkedin.com/in/krish-makwana-58ab64374/)
+
 💻 GitHub: [https://github.com/KrishMakwana28](https://github.com/KrishMakwana28)
 
 ---
@@ -239,7 +240,9 @@ The dataset consists of **100,000+ records** and **40 columns**, grouped into th
 If you found this project useful:
 
 ⭐ Star this repository
+
 📢 Share it with your network
+
 💬 Provide feedback
 
 ---
