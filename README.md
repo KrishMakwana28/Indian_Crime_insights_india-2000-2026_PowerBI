@@ -212,7 +212,7 @@ The dataset consists of **100,000+ records** and **40 columns**, grouped into th
 
 ## 📸 Dashboard Preview
 
-![Crime Analysis Overview](Dashboard_Image/Crime Analysis Overview.png)
+![Crime Analysis Overview](Dashboard_image/Crime Analysis Overview.png)
 ![Crime Trend Analysis](Dashboard_Image/Crime Trend Analysis.png)
 ![Geographic Crime Analysis](Dashboard_Image/Geographic Crime Analysis.png)
 ![Crime Category Analysis](Dashboard_Image/image_26.png)
