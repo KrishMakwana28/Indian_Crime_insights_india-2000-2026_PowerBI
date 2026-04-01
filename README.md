@@ -229,9 +229,9 @@ The dataset consists of **100,000+ records** and **40 columns**, grouped into th
 
 **Krish Makwana**
 
-🔗 LinkedIn: [https://www.linkedin.com/in/krish-makwana-58ab64374/](https://www.linkedin.com/in/krish-makwana-58ab64374/)
+🔗 LinkedIn: [Krish Makwana.](https://www.linkedin.com/in/krish-makwana-58ab64374/)
 
-💻 GitHub: [https://github.com/KrishMakwana28](https://github.com/KrishMakwana28)
+💻 GitHub: [Krish Makwana](https://github.com/KrishMakwana28)
 
 ---
 
