@@ -212,16 +212,32 @@ The dataset consists of **100,000+ records** and **40 columns**, grouped into th
 
 ## 📸 Dashboard Preview
 
-![Crime Analysis Overview](Dashboard_image/Crime Analysis Overview.png)
-![Crime Trend Analysis](Dashboard_Image/Crime Trend Analysis.png)
-![Geographic Crime Analysis](Dashboard_Image/Geographic Crime Analysis.png)
-![Crime Category Analysis](Dashboard_Image/image_26.png)
-![Victim Demographic Analysis](Dashboard_Image/image_27.png)
-![Crime Suspect Analysis](Dashboard_Image/image_28.png)
-![Crime Investigation Efficiency](Dashboard_Image/image_29.png)
-![Evidence Impact Analysis](Dashboard_Image/image_30.png)
-![Financial Impact Efficiency](Dashboard_Image/image_31.png)
+<h3>📊 Crime Analysis Overview</h3>
+<img src="Dashboard_image/Crime_Analysis_Overview.png" width="100%" alt="Crime Analysis Overview">
 
+<h3>📈 Crime Trend Analysis</h3>
+<img src="Dashboard_image/Crime_Trend_Analysis.png" width="100%" alt="Crime Trend Analysis">
+
+<h3>🌍 Geographic Crime Analysis</h3>
+<img src="Dashboard_image/Geographic_Crime_Analysis.png" width="100%" alt="Geographic Crime Analysis">
+
+<h3>🔍 Crime Type Analysis</h3>
+<img src="Dashboard_image/Crime_Type_Analysis.png" width="100%" alt="Crime Type Analysis">
+
+<h3>👥 Victim Demographics</h3>
+<img src="Dashboard_image/Victim_Demographics.png" width="100%" alt="Victim Demographics">
+
+<h3>🕵️ Suspect Analysis</h3>
+<img src="Dashboard_image/Suspect_Analysis.png" width="100%" alt="Suspect Analysis">
+
+<h3>🚔 Investigation Efficiency</h3>
+<img src="Dashboard_image/Investigation_Efficiency.png" width="100%" alt="Investigation Efficiency">
+
+<h3>🧪 Evidence Impact Analysis</h3>
+<img src="Dashboard_image/Evidence_Impact.png" width="100%" alt="Evidence Impact">
+
+<h3>💰 Financial Impact Efficiency</h3>
+<img src="Dashboard_image/Financial_Impact_Efficiency.png" width="100%" alt="Financial Impact Efficiency">
 ---
 
 ## 🚀 Future Enhancements
