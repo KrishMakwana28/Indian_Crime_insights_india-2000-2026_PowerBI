@@ -26,11 +26,17 @@ This project leverages **Microsoft Power BI** to transform a dataset of **100,00
 ## 🎯 Key Objectives
 
 ✔ Analyze crime trends from **2000 to 2026**
+
 ✔ Identify **high-crime states and cities**
+
 ✔ Study **crime categories and severity distribution**
+
 ✔ Understand **victim and suspect behavior patterns**
+
 ✔ Evaluate **investigation efficiency and case handling**
+
 ✔ Analyze **impact of evidence on case closure**
+
 ✔ Measure **financial loss vs recovery gap**
 
 ---
@@ -147,15 +153,19 @@ The dataset consists of **100,000+ records** and **40 columns**, grouped into th
 ## 📊 Key Insights
 
 📉 **Low Recovery Rate**
+
 ➡ Only ~25% of total property loss is recovered
 
 ⏳ **Investigation Delays**
+
 ➡ Average case resolution time exceeds **180 days**
 
 🔁 **High Repeat Offenders**
+
 ➡ Nearly **50% of crimes involve repeat offenders**
 
 📹 **Evidence Improves Closure**
+
 ➡ Cases with **CCTV/DNA evidence show significantly higher closure rates**
 
 ---
@@ -174,9 +184,13 @@ The dataset consists of **100,000+ records** and **40 columns**, grouped into th
 ## 🌟 Key Features
 
 ✔ Interactive and dynamic dashboards
+
 ✔ Advanced filtering (Slicers)
+
 ✔ Cross-filtering between visuals
+
 ✔ Drill-down capabilities
+
 ✔ Data storytelling with insights
 
 ---
@@ -184,10 +198,15 @@ The dataset consists of **100,000+ records** and **40 columns**, grouped into th
 ## 🎯 Business Value
 
 ✔ Identifies **crime hotspots and high-risk areas**
+
 ✔ Supports **data-driven policing strategies**
+
 ✔ Improves **resource allocation and investigation planning**
+
 ✔ Highlights **financial impact of crime**
+
 ✔ Enables **policy-level decision making**
+
 
 ---
 
