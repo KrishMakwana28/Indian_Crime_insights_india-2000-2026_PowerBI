@@ -216,28 +216,28 @@ The dataset consists of **100,000+ records** and **40 columns**, grouped into th
 <img src="Dashboard_image/Crime Analysis Overview.png" width="100%" alt="Crime Analysis Overview">
 
 <h3>📈 Crime Trend Analysis</h3>
-<img src="Dashboard_image/Crime_Trend_Analysis.png" width="100%" alt="Crime Trend Analysis">
+<img src="Dashboard_image/Crime Trend Analysis.png" width="100%" alt="Crime Trend Analysis">
 
 <h3>🌍 Geographic Crime Analysis</h3>
-<img src="Dashboard_image/Geographic_Crime_Analysis.png" width="100%" alt="Geographic Crime Analysis">
+<img src="Dashboard_image/Geographic Crime Analysis.png" width="100%" alt="Geographic Crime Analysis">
 
 <h3>🔍 Crime Type Analysis</h3>
-<img src="Dashboard_image/Crime_Type_Analysis.png" width="100%" alt="Crime Type Analysis">
+<img src="Dashboard_image/Crime Category Analysis.png" width="100%" alt="Crime Category Analysis">
 
 <h3>👥 Victim Demographics</h3>
-<img src="Dashboard_image/Victim_Demographics.png" width="100%" alt="Victim Demographics">
+<img src="Dashboard_image/Victim Demographic Analysis.png" width="100%" alt="Victim Demographic Analysis">
 
 <h3>🕵️ Suspect Analysis</h3>
-<img src="Dashboard_image/Suspect_Analysis.png" width="100%" alt="Suspect Analysis">
+<img src="Dashboard_image/Crime Suspect Analysis.png" width="100%" alt="Crime Suspect Analysis">
 
 <h3>🚔 Investigation Efficiency</h3>
-<img src="Dashboard_image/Investigation_Efficiency.png" width="100%" alt="Investigation Efficiency">
+<img src="Dashboard_image/Crime Investigation Efficiency Analysis.png" width="100%" alt="Crime Investigation Efficiency Analysis">
 
 <h3>🧪 Evidence Impact Analysis</h3>
-<img src="Dashboard_image/Evidence_Impact.png" width="100%" alt="Evidence Impact">
+<img src="Dashboard_image/Evidence Impact Analysis.png" width="100%" alt="Evidence Impact Analysis">
 
 <h3>💰 Financial Impact Efficiency</h3>
-<img src="Dashboard_image/Financial_Impact_Efficiency.png" width="100%" alt="Financial Impact Efficiency">
+<img src="Dashboard_image/Financial Impact Efficiency Analysis.png" width="100%" alt="Financial Impact Efficiency Analysis">
 ---
 
 ## 🚀 Future Enhancements
