@@ -239,6 +239,7 @@ The dataset consists of **100,000+ records** and **40 columns**, grouped into th
 <h3>💰 Financial Impact Efficiency</h3>
 <img src="Dashboard_image/Financial Impact Efficiency Analysis.png" width="100%" alt="Financial Impact Efficiency Analysis">
 
+---
 
 ## 🚀 Future Enhancements
 
